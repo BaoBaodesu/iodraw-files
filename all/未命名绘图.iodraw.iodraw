@@ -19,6 +19,12 @@
         <mxCell id="LkCagKY9ksXrBj9fizTV-4" value="&amp;nbsp;项目经理（总体负责）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-5" value="&amp;nbsp;项目经理（总体负责）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-6" value="&amp;nbsp;项目经理（总体负责）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
