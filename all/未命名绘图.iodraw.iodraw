@@ -25,11 +25,20 @@
         <mxCell id="LkCagKY9ksXrBj9fizTV-6" value="测试工程师（质量与验收）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LkCagKY9ksXrBj9fizTV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="LkCagKY9ksXrBj9fizTV-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LkCagKY9ksXrBj9fizTV-2" target="LkCagKY9ksXrBj9fizTV-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="190" as="sourcePoint" />
             <mxPoint x="430" y="140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-8" value="系统分析员（需求与设计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-9" value="系统分析员（需求与设计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-10" value="系统分析员（需求与设计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
