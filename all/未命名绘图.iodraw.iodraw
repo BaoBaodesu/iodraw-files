@@ -7,6 +7,9 @@
         <mxCell id="LkCagKY9ksXrBj9fizTV-1" value="指导教师（监督与评审）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="70" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LkCagKY9ksXrBj9fizTV-2" value="&amp;nbsp;项目经理（总体负责）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
