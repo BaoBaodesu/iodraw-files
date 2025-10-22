@@ -32,13 +32,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LkCagKY9ksXrBj9fizTV-8" value="文档负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="140" height="60" as="geometry" />
+          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LkCagKY9ksXrBj9fizTV-9" value="前端开发人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LkCagKY9ksXrBj9fizTV-10" value="后端开发人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="160" height="60" as="geometry" />
+          <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
