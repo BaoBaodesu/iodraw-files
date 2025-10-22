@@ -38,7 +38,7 @@
           <mxGeometry x="140" y="310" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LkCagKY9ksXrBj9fizTV-10" value="系统分析员（需求与设计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="340" y="400" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
