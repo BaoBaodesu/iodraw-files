@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uCJTglhNTZ44k-0YqWkX-1" value="user（用户）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uCJTglhNTZ44k-0YqWkX-1" value="user&lt;div&gt;（用户）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uCJTglhNTZ44k-0YqWkX-2" target="uCJTglhNTZ44k-0YqWkX-3">
