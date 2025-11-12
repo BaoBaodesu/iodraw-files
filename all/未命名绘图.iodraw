@@ -15,11 +15,19 @@
         <mxCell id="uCJTglhNTZ44k-0YqWkX-1" value="user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="140" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uCJTglhNTZ44k-0YqWkX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uCJTglhNTZ44k-0YqWkX-2" target="uCJTglhNTZ44k-0YqWkX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uCJTglhNTZ44k-0YqWkX-14" value="(n,1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uCJTglhNTZ44k-0YqWkX-13">
+          <mxGeometry x="-0.1333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-2" value="comment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-3" value="content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-4" value="&amp;nbsp;video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="80" height="40" as="geometry" />
