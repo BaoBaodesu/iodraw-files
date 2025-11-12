@@ -40,10 +40,10 @@
           <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-4" value="&amp;nbsp;video&lt;div&gt;（视频）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="105" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-5" value="anime&lt;div&gt;（动画）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uCJTglhNTZ44k-0YqWkX-6" value="content_stats&lt;div&gt;（内容统计）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="320" width="80" height="40" as="geometry" />
