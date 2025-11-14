@@ -19,7 +19,7 @@
         <mxCell id="lsckmm9r7wS9kw-80LNm-5" value="开发工程师（DEV）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lsckmm9r7wS9kw-80LNm-6" value="客户代表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lsckmm9r7wS9kw-80LNm-6" value="测试工程师（TEST）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lsckmm9r7wS9kw-80LNm-7" value="文档管理员（CM）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
