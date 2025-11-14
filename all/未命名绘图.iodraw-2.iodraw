@@ -7,7 +7,7 @@
         <mxCell id="lsckmm9r7wS9kw-80LNm-1" value="客户代表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lsckmm9r7wS9kw-80LNm-2" value="客户代表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lsckmm9r7wS9kw-80LNm-2" value="项目经理（PM）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lsckmm9r7wS9kw-80LNm-3" value="系统分析师（SA）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="lsckmm9r7wS9kw-80LNm-7" value="文档管理员（CM）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lsckmm9r7wS9kw-80LNm-8" value="客户代表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lsckmm9r7wS9kw-80LNm-8" value="运维支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="490" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
