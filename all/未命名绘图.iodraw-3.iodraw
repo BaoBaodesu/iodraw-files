@@ -16,8 +16,8 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-2" value="Nginx（静态站点）&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="240" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js3fa__1QclGEmoOb7Gm-3" value="Wemedia Gateway（网关）&lt;div&gt;鉴权/路由/限流/Token解析&lt;/div&gt;&lt;div&gt;用户信息写入 Header&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="380" width="160" height="60" as="geometry" />
+        <mxCell id="js3fa__1QclGEmoOb7Gm-3" value="Wemedia Gateway（网关）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-6" value="WeMedia Service（微服务）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="160" height="60" as="geometry" />
