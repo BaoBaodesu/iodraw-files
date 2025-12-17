@@ -29,7 +29,7 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-3" value="Wemedia Gateway（网关）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js3fa__1QclGEmoOb7Gm-6" value="Nacos（注册+配置）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="js3fa__1QclGEmoOb7Gm-6" value="WeMedia Service（微服务）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-7" value="&amp;nbsp;MySQL（业务数据）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
