@@ -7,6 +7,11 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="js3fa__1QclGEmoOb7Gm-1" target="js3fa__1QclGEmoOb7Gm-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="js3fa__1QclGEmoOb7Gm-10" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="js3fa__1QclGEmoOb7Gm-4">
+          <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-1" value="Browser（自媒体端）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="160" height="50" as="geometry" />
         </mxCell>
@@ -14,7 +19,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-2" value="Nginx（静态站点）&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="240" width="160" height="50" as="geometry" />
+          <mxGeometry x="200" y="230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-3" value="Wemedia Gateway（网关）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="160" height="50" as="geometry" />
@@ -28,7 +33,7 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-8" value="MinIO（对象存储）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="js3fa__1QclGEmoOb7Gm-9" value="&amp;nbsp;MySQL（业务数据）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="js3fa__1QclGEmoOb7Gm-9" value="Nacos" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="130" y="630" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
