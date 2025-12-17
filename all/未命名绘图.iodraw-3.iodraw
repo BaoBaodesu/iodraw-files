@@ -36,7 +36,7 @@
           <mxGeometry x="210" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-8" value="MinIO（对象存储）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="720" width="160" height="50" as="geometry" />
+          <mxGeometry x="390" y="720" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-9" value="Nacos" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="160" height="50" as="geometry" />
@@ -71,6 +71,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="400" as="sourcePoint" />
             <mxPoint x="230" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="js3fa__1QclGEmoOb7Gm-21" value="JDBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="js3fa__1QclGEmoOb7Gm-19">
+          <mxGeometry x="-0.1451" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="js3fa__1QclGEmoOb7Gm-16" target="js3fa__1QclGEmoOb7Gm-8">
