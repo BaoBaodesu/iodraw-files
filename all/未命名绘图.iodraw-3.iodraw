@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="sq8HmIINVNGVP6SgkzcE">
-    <mxGraphModel dx="791" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,11 +45,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="570" as="sourcePoint" />
             <mxPoint x="250" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="js3fa__1QclGEmoOb7Gm-25" value="配置读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="js3fa__1QclGEmoOb7Gm-14">
-          <mxGeometry x="-0.1467" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="js3fa__1QclGEmoOb7Gm-3" target="js3fa__1QclGEmoOb7Gm-9">
