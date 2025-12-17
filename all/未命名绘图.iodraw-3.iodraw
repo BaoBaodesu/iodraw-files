@@ -18,11 +18,16 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js3fa__1QclGEmoOb7Gm-2" target="js3fa__1QclGEmoOb7Gm-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="js3fa__1QclGEmoOb7Gm-11" value="/api... 转发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="js3fa__1QclGEmoOb7Gm-5">
+          <mxGeometry x="-0.2611" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-2" value="Nginx（静态站点）&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="230" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-3" value="Wemedia Gateway（网关）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="160" height="50" as="geometry" />
+          <mxGeometry x="200" y="340" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="js3fa__1QclGEmoOb7Gm-6" value="WeMedia Service（微服务）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="420" width="160" height="50" as="geometry" />
