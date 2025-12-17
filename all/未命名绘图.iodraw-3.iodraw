@@ -28,6 +28,9 @@
         <mxCell id="js3fa__1QclGEmoOb7Gm-8" value="MinIO（对象存储）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="520" width="160" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="js3fa__1QclGEmoOb7Gm-9" value="&amp;nbsp;MySQL（业务数据）" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="630" width="160" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
