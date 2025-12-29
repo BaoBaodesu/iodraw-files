@@ -420,8 +420,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-33" value="邮箱登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="350" width="80" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-33" value="发送验证码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="312.5" y="325" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
