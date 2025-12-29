@@ -1441,7 +1441,7 @@
             <mxPoint x="758" y="1457.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-457" value="时间戳" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-457" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-458" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-457" target="Q9jiTddwBgX1TPkPM39c-450" edge="1">
@@ -4023,6 +4023,12 @@
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-137" value="分集ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="1694" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0fPwyWncyolHah-0igFT-138" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9jiTddwBgX1TPkPM39c-429" target="0fPwyWncyolHah-0igFT-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="671" y="1660" as="sourcePoint" />
+            <mxPoint x="650" y="1710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
