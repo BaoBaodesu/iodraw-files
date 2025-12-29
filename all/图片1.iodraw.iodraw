@@ -1910,7 +1910,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-619" value="连载类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-817" y="1774" width="80" height="40" as="geometry" />
+          <mxGeometry x="-522" y="1919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-620" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-616" target="Q9jiTddwBgX1TPkPM39c-619" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1919,7 +1919,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-621" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-757" y="1884" width="80" height="40" as="geometry" />
+          <mxGeometry x="-522" y="1919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-622" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-616" target="Q9jiTddwBgX1TPkPM39c-621" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1928,7 +1928,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-623" value="时间戳" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-817" y="1854" width="80" height="40" as="geometry" />
+          <mxGeometry x="-515" y="1900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-624" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-623" target="Q9jiTddwBgX1TPkPM39c-616" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1946,7 +1946,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-627" value="阅读方向" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-757" y="1734" width="80" height="40" as="geometry" />
+          <mxGeometry x="-490" y="1924" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-628" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-627" target="Q9jiTddwBgX1TPkPM39c-616" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1955,10 +1955,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-629" value="总章节" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-677" y="1724" width="80" height="40" as="geometry" />
+          <mxGeometry x="-485.5" y="1930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-630" value="来源类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-663" y="1884" width="80" height="40" as="geometry" />
+          <mxGeometry x="-530.5" y="1900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-631" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-629" target="Q9jiTddwBgX1TPkPM39c-616" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
