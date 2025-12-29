@@ -458,8 +458,8 @@
             <mxPoint x="730" y="897.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-47" value="允许进入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="887" y="980" width="110" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-47" value="按照UID执行业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="874.5" y="947.97" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
