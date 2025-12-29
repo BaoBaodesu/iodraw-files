@@ -754,7 +754,7 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-280" value="内容人物角色关联" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-704" y="1330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-281" value="关联ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-281" value="内容类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="1270" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-282" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-280" target="Q9jiTddwBgX1TPkPM39c-281" edge="1">
