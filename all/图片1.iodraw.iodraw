@@ -4213,8 +4213,8 @@
             <mxPoint x="-159" y="509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-6" value="套餐名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-242" y="190" width="80" height="40" as="geometry" />
+        <mxCell id="0fPwyWncyolHah-0igFT-6" value="业务编码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="130" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
