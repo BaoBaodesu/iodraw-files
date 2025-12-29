@@ -1156,7 +1156,7 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-391" value="逻辑删除" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1330" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-392" value="分辨率" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-392" value="来源类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-393" value="点赞数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1174,7 +1174,7 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-397" value="评论数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-398" value="标题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-398" value="系列类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="1330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-399" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-392" target="Q9jiTddwBgX1TPkPM39c-387" edge="1">
