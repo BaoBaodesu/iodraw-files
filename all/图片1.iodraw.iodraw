@@ -202,9 +202,6 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-55" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="112.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-56" value="注册时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="192.5" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-58" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="347" y="345" width="80" height="40" as="geometry" />
         </mxCell>
@@ -266,12 +263,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="404.5" y="252.5" as="sourcePoint" />
             <mxPoint x="370.5" y="292.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-56" target="Q9jiTddwBgX1TPkPM39c-44" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.5" y="262.5" as="sourcePoint" />
-            <mxPoint x="380.5" y="302.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.006;entryY=0.183;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-49" target="Q9jiTddwBgX1TPkPM39c-44" edge="1">
@@ -4138,7 +4129,7 @@
         <mxCell id="Yy5hYQBnQhylxKaFtEEh-10" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="30" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yy5hYQBnQhylxKaFtEEh-11" value="删除时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Yy5hYQBnQhylxKaFtEEh-11" value="注销时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yy5hYQBnQhylxKaFtEEh-12" value="最后登录时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
