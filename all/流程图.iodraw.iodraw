@@ -77,10 +77,10 @@
             <mxPoint x="-10" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PwPbNXeuM7Ha5mWwJpeV-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PwPbNXeuM7Ha5mWwJpeV-8" target="PwPbNXeuM7Ha5mWwJpeV-11" edge="1">
+        <mxCell id="PwPbNXeuM7Ha5mWwJpeV-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PwPbNXeuM7Ha5mWwJpeV-8" target="PPl_REKwZDTxiD3xk80O-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="177.5" y="260" as="sourcePoint" />
-            <mxPoint x="177.5" y="320" as="targetPoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PwPbNXeuM7Ha5mWwJpeV-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PwPbNXeuM7Ha5mWwJpeV-11" target="PwPbNXeuM7Ha5mWwJpeV-12" edge="1">
@@ -419,6 +419,9 @@
           <mxGeometry x="-0.4506" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-33" value="邮箱登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
