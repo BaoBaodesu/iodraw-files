@@ -4229,7 +4229,7 @@
           <mxGeometry x="-220" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-24" value="逻辑删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-299" y="992.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-300" y="980" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0fPwyWncyolHah-0igFT-22" target="Q9jiTddwBgX1TPkPM39c-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4241,6 +4241,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-295" y="844" as="sourcePoint" />
             <mxPoint x="-269" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fPwyWncyolHah-0igFT-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0fPwyWncyolHah-0igFT-24" target="Q9jiTddwBgX1TPkPM39c-108">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-249" y="833" as="sourcePoint" />
+            <mxPoint x="-249" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
