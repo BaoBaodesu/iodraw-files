@@ -4025,10 +4025,10 @@
           <mxGeometry x="-306" y="1390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-128" value="点踩数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-306" y="1200" width="80" height="40" as="geometry" />
+          <mxGeometry x="-272" y="1190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-129" value="逻辑删除标记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="1350" width="80" height="40" as="geometry" />
+          <mxGeometry x="-105" y="1300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-130" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0fPwyWncyolHah-0igFT-127" target="Q9jiTddwBgX1TPkPM39c-305">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4036,7 +4036,7 @@
             <mxPoint x="-296" y="1343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0fPwyWncyolHah-0igFT-128" target="Q9jiTddwBgX1TPkPM39c-305">
+        <mxCell id="0fPwyWncyolHah-0igFT-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0fPwyWncyolHah-0igFT-128" target="Q9jiTddwBgX1TPkPM39c-305">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-340" y="1250" as="sourcePoint" />
             <mxPoint x="-296" y="1303" as="targetPoint" />
