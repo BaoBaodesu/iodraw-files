@@ -802,15 +802,6 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-291" value="人员角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-711.5" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-292" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-647.5" y="1460" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-293" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-291" target="Q9jiTddwBgX1TPkPM39c-292" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-507.5" y="1500" as="sourcePoint" />
-            <mxPoint x="-418.5" y="1540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-294" value="角色类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-767.5" y="1460" width="80" height="40" as="geometry" />
         </mxCell>
@@ -818,15 +809,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-569.5" y="1452.75" as="sourcePoint" />
             <mxPoint x="-476.5" y="1497.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-296" value="时间戳" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-711.5" y="1590" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-297" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-291" target="Q9jiTddwBgX1TPkPM39c-296" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-671.5" y="1552.75" as="sourcePoint" />
-            <mxPoint x="-571.5" y="1617.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-298" value="角色类型ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
