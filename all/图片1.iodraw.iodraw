@@ -4252,7 +4252,7 @@
         <mxCell id="0fPwyWncyolHah-0igFT-30" value="会员专享标记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-516.5" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-31" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0fPwyWncyolHah-0igFT-31" value="点数价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
