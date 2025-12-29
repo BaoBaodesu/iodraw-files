@@ -1508,7 +1508,7 @@
           <mxGeometry x="365.5" y="1919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-476" value="导演" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="1879" width="80" height="40" as="geometry" />
+          <mxGeometry x="431" y="1894" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-477" value="制片" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1830" width="80" height="40" as="geometry" />
@@ -1549,7 +1549,7 @@
             <mxPoint x="435" y="1899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-488" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-467" target="Q9jiTddwBgX1TPkPM39c-476" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-488" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-467" target="Q9jiTddwBgX1TPkPM39c-476" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="1864" as="sourcePoint" />
             <mxPoint x="445" y="1909" as="targetPoint" />
