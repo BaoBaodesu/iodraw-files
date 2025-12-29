@@ -458,14 +458,14 @@
             <mxPoint x="730" y="897.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPl_REKwZDTxiD3xk80O-48" target="PPl_REKwZDTxiD3xk80O-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-48" value="按照UID执行业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="874.5" y="957.97" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="708" as="sourcePoint" />
-            <mxPoint x="1100" y="778" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-52" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="899" y="1040" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
