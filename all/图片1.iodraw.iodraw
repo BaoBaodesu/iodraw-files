@@ -941,7 +941,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-303" value="时间戳" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-704" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="-777" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-304" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-303" target="Q9jiTddwBgX1TPkPM39c-251" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4120,7 +4120,7 @@
             <mxPoint x="-592" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-37" value="时间戳" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0fPwyWncyolHah-0igFT-37" value="内容类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-590.5" y="840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
