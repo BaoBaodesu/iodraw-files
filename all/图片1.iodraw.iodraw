@@ -829,9 +829,6 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-307" value="评论者用户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-260" y="1310" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-308" value="楼层" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-453" y="1350" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-309" value="评论ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="1350" width="80" height="40" as="geometry" />
         </mxCell>
@@ -904,10 +901,10 @@
             <mxPoint x="-280" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-325" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-305" target="Q9jiTddwBgX1TPkPM39c-308" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-325" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-305" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-270" y="1490" as="sourcePoint" />
-            <mxPoint x="-270" y="1440" as="targetPoint" />
+            <mxPoint x="-373" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-326" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-305" target="Q9jiTddwBgX1TPkPM39c-310" edge="1">
