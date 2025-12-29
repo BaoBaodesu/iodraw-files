@@ -1898,7 +1898,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-616" value="漫画" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-709" y="1814" width="80" height="40" as="geometry" />
+          <mxGeometry x="-510" y="1900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-617" value="漫画ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-607" y="1784" width="80" height="40" as="geometry" />
