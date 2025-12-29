@@ -497,8 +497,8 @@
         <mxCell id="PPl_REKwZDTxiD3xk80O-66" value="MySQL&lt;div&gt;更新业务表记录&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1230" y="697.97" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-67" value="更新记录并写入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1331" y="624" width="99" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-67" value="保存成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="802.97" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
