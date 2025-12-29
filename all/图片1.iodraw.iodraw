@@ -625,7 +625,7 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-211" value="内容类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-799" y="555" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-212" value="浏览数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-212" value="浏览/播放数" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-662" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-213" value="最后刷新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
