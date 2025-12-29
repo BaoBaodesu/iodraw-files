@@ -641,10 +641,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-98" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1820" y="-40" width="80" height="40" as="geometry" />
+          <mxGeometry x="1840" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-100" value="进入内容管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1840" y="84" width="99" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-100" value="管理端上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1830.5" y="84" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
