@@ -4178,7 +4178,7 @@
           <mxGeometry x="277" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知级别&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="446" y="707.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="223" y="757.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-11" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;目标ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="303" y="572.5" width="80" height="40" as="geometry" />
@@ -4202,6 +4202,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="263" y="623" as="sourcePoint" />
             <mxPoint x="292" y="589" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0fPwyWncyolHah-0igFT-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q9jiTddwBgX1TPkPM39c-45" target="0fPwyWncyolHah-0igFT-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="283" y="633" as="sourcePoint" />
+            <mxPoint x="325" y="617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
