@@ -4111,9 +4111,6 @@
             <mxPoint x="-592" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-37" value="内容类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590.5" y="840" width="80" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
