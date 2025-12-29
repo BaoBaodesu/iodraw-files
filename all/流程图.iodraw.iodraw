@@ -646,6 +646,9 @@
         <mxCell id="PPl_REKwZDTxiD3xk80O-100" value="管理端上传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830.5" y="84" width="99" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-101" value="是否已发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1815" y="152.97000000000003" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
