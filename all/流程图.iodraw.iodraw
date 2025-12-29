@@ -650,9 +650,9 @@
           <mxGeometry x="1800" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-102" value="生成taskID&lt;div&gt;登记上传任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1760" y="285" width="130" height="40" as="geometry" />
+          <mxGeometry x="1730" y="285" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-103" value="生成taskID&lt;div&gt;登记上传任务&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PPl_REKwZDTxiD3xk80O-103" value="返回错误" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1929.5" y="285" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
