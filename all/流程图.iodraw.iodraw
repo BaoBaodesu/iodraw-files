@@ -658,8 +658,11 @@
         <mxCell id="PPl_REKwZDTxiD3xk80O-104" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2120" y="285" width="58.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-105" value="异步调用存储服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PPl_REKwZDTxiD3xk80O-105" value="异步调用执行解压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1720" y="380" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-106" value="异步调用执行解压" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1730" y="390" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
