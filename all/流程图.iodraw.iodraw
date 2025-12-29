@@ -261,10 +261,13 @@
           <mxGeometry x="710" y="430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="返回业务数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="830" y="773.97" width="110" height="40" as="geometry" />
+          <mxGeometry x="860" y="820" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-0" value="允许进入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="632.5" y="710" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPl_REKwZDTxiD3xk80O-1" target="DXAXvbLGm0SlzlDfhLuk-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-1" value="按照UID执行业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="710" width="110" height="40" as="geometry" />
