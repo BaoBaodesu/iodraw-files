@@ -4198,7 +4198,7 @@
         <mxCell id="0fPwyWncyolHah-0igFT-2" value="变更数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="595" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-3" value="变更后点数余额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0fPwyWncyolHah-0igFT-3" value="变更后余额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="665" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
