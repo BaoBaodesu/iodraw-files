@@ -261,7 +261,7 @@
           <mxGeometry x="629" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DXAXvbLGm0SlzlDfhLuk-18" value="是否访问管理员路径" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="977" y="557.97" width="160" height="60" as="geometry" />
+          <mxGeometry x="899.5" y="525" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="返回业务数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1131" y="947.97" width="110" height="40" as="geometry" />
@@ -432,10 +432,10 @@
         <mxCell id="PPl_REKwZDTxiD3xk80O-38" value="返回最新用户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="499" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="PPl_REKwZDTxiD3xk80O-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PPl_REKwZDTxiD3xk80O-37" target="PPl_REKwZDTxiD3xk80O-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="694" y="375" as="sourcePoint" />
-            <mxPoint x="694" y="460" as="targetPoint" />
+            <mxPoint x="694" y="617.97" as="sourcePoint" />
+            <mxPoint x="694" y="702.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-40" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPl_REKwZDTxiD3xk80O-39">
