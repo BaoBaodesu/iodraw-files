@@ -1265,7 +1265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-417" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="235" y="1674" width="80" height="40" as="geometry" />
+          <mxGeometry x="245" y="1674" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-418" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-412" target="Q9jiTddwBgX1TPkPM39c-417" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1274,7 +1274,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-419" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="1644" width="80" height="40" as="geometry" />
+          <mxGeometry x="180" y="1660" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-420" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-419" target="Q9jiTddwBgX1TPkPM39c-412" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -4011,6 +4011,9 @@
             <mxPoint x="-230" y="1234" as="sourcePoint" />
             <mxPoint x="-296" y="1303" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0fPwyWncyolHah-0igFT-135" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1670" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
