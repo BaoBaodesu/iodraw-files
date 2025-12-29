@@ -266,7 +266,7 @@
         <mxCell id="DXAXvbLGm0SlzlDfhLuk-18" value="是否访问管理员路径" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="849.5" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="返回业务数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1035" y="767.97" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-0" value="允许进入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
