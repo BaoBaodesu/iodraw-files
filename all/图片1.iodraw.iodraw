@@ -4178,12 +4178,12 @@
           <mxGeometry x="453" y="595" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知级别&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="409" y="762.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="446" y="707.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-11" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;目标ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="538" y="555" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知事件ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="0fPwyWncyolHah-0igFT-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;更新时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="544.5" y="767.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-13" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知标题&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
@@ -4195,8 +4195,8 @@
         <mxCell id="0fPwyWncyolHah-0igFT-15" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知内容概要&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="453" y="652.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;通知事件ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="490" y="762.5" width="80" height="40" as="geometry" />
+        <mxCell id="0fPwyWncyolHah-0igFT-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;创建时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="555" y="717.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
