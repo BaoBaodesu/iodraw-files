@@ -799,7 +799,7 @@
             <mxPoint x="-694" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-291" value="人物角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-291" value="人员角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-711.5" y="1520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-292" value="状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -4021,7 +4021,7 @@
         <mxCell id="0fPwyWncyolHah-0igFT-39" value="人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-707" y="1107.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0fPwyWncyolHah-0igFT-40" value="标签名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0fPwyWncyolHah-0igFT-40" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-797" y="1170" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-41" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
