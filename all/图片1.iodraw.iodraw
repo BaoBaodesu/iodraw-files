@@ -1496,19 +1496,19 @@
           <mxGeometry x="270" y="1919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-470" value="标签文本" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="1764" width="80" height="40" as="geometry" />
+          <mxGeometry x="237" y="1780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-471" value="番剧ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="445" y="1820" width="80" height="40" as="geometry" />
+          <mxGeometry x="445" y="1830" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-472" value="制作公司" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="405" y="1764" width="80" height="40" as="geometry" />
+          <mxGeometry x="409" y="1774" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-475" value="主要CV" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365.5" y="1919" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-476" value="导演" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="431" y="1894" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="1894" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-477" value="制片" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1830" width="80" height="40" as="geometry" />
