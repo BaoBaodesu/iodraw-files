@@ -494,8 +494,8 @@
         <mxCell id="PPl_REKwZDTxiD3xk80O-63" value="创建记录并写入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1142" y="614" width="99" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-64" value="创建记录并写入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1152" y="624" width="99" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-64" value="更新业务表记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1231.5" y="700" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
