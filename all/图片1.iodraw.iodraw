@@ -4196,10 +4196,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-2" value="关联订单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="595" width="80" height="40" as="geometry" />
+          <mxGeometry x="-77" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0fPwyWncyolHah-0igFT-3" value="变更后余额" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="665" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0fPwyWncyolHah-0igFT-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q9jiTddwBgX1TPkPM39c-46" target="0fPwyWncyolHah-0igFT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-132" y="555" as="sourcePoint" />
+            <mxPoint x="-159" y="509" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
