@@ -260,11 +260,14 @@
         <mxCell id="DXAXvbLGm0SlzlDfhLuk-18" value="是否访问管理员路径" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="435" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="按照UID执行业务" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="880" y="585" width="110" height="40" as="geometry" />
+        <mxCell id="DXAXvbLGm0SlzlDfhLuk-19" value="返回业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="720" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-0" value="允许进入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="540" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-1" value="按照UID执行业务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="595" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
