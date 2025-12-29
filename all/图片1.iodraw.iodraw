@@ -751,7 +751,7 @@
             <mxPoint x="-564" y="1007.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-280" value="内容标签关联" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-280" value="内容人物角色关联" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-704" y="1330" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-281" value="关联ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
