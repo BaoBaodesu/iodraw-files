@@ -477,7 +477,10 @@
           <mxGeometry x="1231.5" y="200" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PPl_REKwZDTxiD3xk80O-58" value="选择内容状态" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="270" width="130" height="60" as="geometry" />
+          <mxGeometry x="1216" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PPl_REKwZDTxiD3xk80O-59" value="提交保存请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1231" y="360" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
