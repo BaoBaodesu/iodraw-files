@@ -350,8 +350,8 @@
             <mxPoint x="715" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPl_REKwZDTxiD3xk80O-16" value="允许进入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="635" y="510" width="110" height="40" as="geometry" />
+        <mxCell id="PPl_REKwZDTxiD3xk80O-16" value="加载校验是否为管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="635" y="510" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
