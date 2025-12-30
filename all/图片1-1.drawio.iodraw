@@ -2750,16 +2750,16 @@
           <mxGeometry x="-134.5" y="3080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-931" value="平台ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-214.5" y="3152.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-186.25" y="3152.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-932" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-928" target="Q9jiTddwBgX1TPkPM39c-931" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-932" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-928" target="Q9jiTddwBgX1TPkPM39c-931" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="7.5" y="3012.75" as="sourcePoint" />
             <mxPoint x="100.5" y="3057.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-933" value="游戏内容ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-87" y="3148.75" width="80" height="40" as="geometry" />
+          <mxGeometry x="-82" y="3152.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-934" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-928" target="Q9jiTddwBgX1TPkPM39c-933" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
