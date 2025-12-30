@@ -2533,12 +2533,6 @@
         <mxCell id="Q9jiTddwBgX1TPkPM39c-864" value="发行商" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="2862.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-865" value="语言列表" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-797" y="2832.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-866" value="封面" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-777" y="2792.5" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-867" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-860" target="Q9jiTddwBgX1TPkPM39c-855" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-537" y="2802.5" as="sourcePoint" />
@@ -2557,15 +2551,15 @@
             <mxPoint x="-607" y="2847.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-870" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-865" target="Q9jiTddwBgX1TPkPM39c-855" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-870" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Q9jiTddwBgX1TPkPM39c-855" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-617" y="2812.5" as="sourcePoint" />
+            <mxPoint x="-717" y="2852.5" as="sourcePoint" />
             <mxPoint x="-597" y="2857.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-871" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-866" target="Q9jiTddwBgX1TPkPM39c-855" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-871" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Q9jiTddwBgX1TPkPM39c-855" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-607" y="2822.5" as="sourcePoint" />
+            <mxPoint x="-697" y="2812.5" as="sourcePoint" />
             <mxPoint x="-587" y="2867.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2605,16 +2599,13 @@
             <mxPoint x="-527" y="2927.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-878" value="标题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="2872.5" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-879" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-855" target="Q9jiTddwBgX1TPkPM39c-878" edge="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-879" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q9jiTddwBgX1TPkPM39c-855" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-717" y="2882.5" as="sourcePoint" />
-            <mxPoint x="-652" y="2877.5" as="targetPoint" />
+            <mxPoint x="-710" y="2892.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q9jiTddwBgX1TPkPM39c-880" value="副标题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Q9jiTddwBgX1TPkPM39c-880" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="2752.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q9jiTddwBgX1TPkPM39c-881" value="游戏ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
