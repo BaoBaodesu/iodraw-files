@@ -3943,7 +3943,7 @@
         <mxCell id="mI5lPBubWf7JXn8NC0pg-4" value="本地事务消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="925.5" y="3091.25" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mI5lPBubWf7JXn8NC0pg-5" value="是否归档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mI5lPBubWf7JXn8NC0pg-5" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="3076.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mI5lPBubWf7JXn8NC0pg-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mI5lPBubWf7JXn8NC0pg-4" target="mI5lPBubWf7JXn8NC0pg-5">
@@ -3961,7 +3961,7 @@
             <mxPoint x="1065.5" y="3188.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mI5lPBubWf7JXn8NC0pg-9" value="逻辑删除标记" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mI5lPBubWf7JXn8NC0pg-9" value="重试次数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="3126.25" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mI5lPBubWf7JXn8NC0pg-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mI5lPBubWf7JXn8NC0pg-9" target="mI5lPBubWf7JXn8NC0pg-4">
